@@ -1,6 +1,6 @@
 # SoleMate - Smart Fall Prevention System
 
-**🦶 Prevention over Detection**
+**Prevention over Detection**
 
 ## Why This Project?
 
