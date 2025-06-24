@@ -11,7 +11,7 @@ Every 11 seconds, a senior citizen falls. Current medical alert systems only wor
 SoleMate is a smart insole prototype that uses machine learning and sensor fusion to predict falls before they happen:
 
 - **Real-time balance monitoring** with 95% accuracy
-- **AI-powered fall prediction** using 6-axis motion sensors
+- **ML-powered fall prediction** using 6-axis motion sensors
 - **Immediate feedback** through LED, audio, and display alerts
 - **Posture analysis** with personalized baseline calibration
 - **Multi-stage detection** to reduce false positives
