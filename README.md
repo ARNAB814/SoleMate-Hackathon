@@ -37,7 +37,7 @@ sudo python3 SoleMate_Algorithm.py
 ## Team
 - **Ejaz Khan** - ML Algorithm Development ([GitHub](https://github.com/Ejaz-dev))
 - **Arunav Saha** - Coding & Hardware-Software Integration  
-- **Musayed Ahmed** - Hardware Integration ([GitHub](https://github.com/musayeda))
+- **Musayed Ahmed** - Hardware Building ([GitHub](https://github.com/musayeda))
 
 ---
 *SoleMate: Building the future of preventive healthcare, one step at a time.*
